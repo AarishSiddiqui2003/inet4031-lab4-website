@@ -1,16 +1,7 @@
-# INET4031 - Module 6 - Working with Remote Systems
+Aarish's light control page
 
-## Instructions, files, code for Lab 6.
+This repository has a simple HTML page using JS from INET4031 Lab 4. 
 
-What if you aren't nearby the computer you need to work on?
+It features a toggleable light using gif images changed when a button is clicked. and a customized background color. 
 
-Up until this point, our Lab activities have been accomplished by doing them on our laptops.
-
-In this activity we explore the concept of "servers."  Which typically aren't located where we are.
-
-We have to connect to them remotely
-
-This Lab explores that concept.
-
-
-
+The purpose of this repository is to show basic HTML and JavaScript skills.
